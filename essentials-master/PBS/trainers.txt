@@ -137,8 +137,8 @@ Sammy
 PONYTA,8
 TIMBURR,8
 #-------------------------------
-RIVAL2
-Aurora
+RIVAL1
+Aurora,1
 2
 SWABLU,4
 CLAMPERL,4
