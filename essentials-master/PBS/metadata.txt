@@ -395,5 +395,27 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [082]
-# Eadra Pokecenter
+# Eadra PokeCenter
 HealingSpot=76,10,14
+#-------------------------------
+[083]
+# Puam Town
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[084]
+# Puam PokeCenter
+HealingSpot=83,6,16
+#-------------------------------
+[090]
+# Route 62
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[091]
+# Route 64
+Bicycle=true
+Outdoor=true
+ShowArea=true
