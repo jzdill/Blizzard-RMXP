@@ -407,3 +407,375 @@ FormName=Chill Drive
 #-------------------------------
 [GENESECT-4]
 FormName=Douse Drive
+#-------------------------------
+[BANETTE-1]
+FormName=Mega Banette
+BaseStats=64,165,75,75,93,83
+Abilities=PRANKSTER
+Height=1.2
+Weight=13.0
+MegaStone=BANETTITE
+#-------------------------------
+[VENUSAUR-1]
+FormName=Mega Venusaur
+BaseStats=80,100,123,80,122,120
+Abilities=THICKFAT
+Height=2.4
+Weight=155.5
+MegaStone=VENUSAURITE
+#-------------------------------
+[CHARIZARD-1]
+FormName=Mega Charizard X
+Type2=DRAGON
+BaseStats=78,130,111,100,130,85
+Abilities=TOUGHCLAWS
+Weight=110.5
+MegaStone=CHARIZARDITEX
+#-------------------------------
+[CHARIZARD-3]
+FormName=Mega Charizard Y
+BaseStats=78,130,111,100,130,85
+Abilities=DROUGHT
+Weight=100.5
+MegaStone=CHARIZARDITEY
+#-------------------------------
+[BLASTOISE-1]
+FormName=Mega Blastoise
+BaseStats=79,103,120,78,135,115
+Abilities=MEGALAUNCHER
+Weight=101.1
+MegaStone=BLASTOISINITE
+#-------------------------------
+[ALAKAZAM-1]
+FormName=Mega ALAKAZAM
+BaseStats=55,50,65,150,175,95
+Abilities=TRACE
+Height=1.2
+MegaStone=ALAKAZITE
+#-------------------------------
+[GENGAR-1]
+FormName=Mega Gengar
+BaseStats=60,65,80,130,170,95
+Abilities=SHADOWTAG
+Height=1.4
+MegaStone=GENGARITE
+#-------------------------------
+[KANGASKHAN-1]
+FormName=Mega Kangaskhan
+BaseStats=105,125,100,100,60,100
+Abilities=PARENTALBOND
+Weight=100.0
+MegaStone=KANGASKHANITE
+#-------------------------------
+[PINSIR-1]
+FormName=Mega Pinsir
+BaseStats=65,155,120,105,65,90
+Abilities=AERILATE
+Height=1.7
+Weight=59.0
+MegaStone=PINSIRITE
+#-------------------------------
+[GYARADOS-1]
+FormName=Mega Gyarados
+Type2=DARK
+BaseStats=95,155,109,81,70,130
+Abilities=MOLDBREAKER
+Weight=305.0
+MegaStone=GYARADOSITE
+#-------------------------------
+[AERODACTYL-1]
+FormName=Mega Aerodactyl
+Type2=DARK
+BaseStats=80,135,85,150,70,95
+Abilities=TOUGHCLAWS
+Height=2.1
+Weight=79.0
+MegaStone=AERODACTYLITE
+#-------------------------------
+[MEWTWO-1]
+FormName=Mega Mewtwo X
+Type2=FIGHTING
+BaseStats=106,190,100,130,154,100
+Abilities=STEADFAST
+Height=2.3
+Weight=127.0
+MegaStone=MEWTWONITEX
+#-------------------------------
+[MEWTWO-3]
+FormName=Mega Mewtwo Y
+BaseStats=106,150,70,140,194,120
+Abilities=INSOMNIA
+Height=1.5
+Weight=33.0
+MegaStone=MEWTWONITEY
+#-------------------------------
+[AMPHAROS-1]
+FormName=Mega Ampharos
+Type2=DRAGON
+BaseStats=90,95,105,45,165,110
+Abilities=MOLDBREAKER
+MegaStone=AMPHAROSITE
+#-------------------------------
+[SCIZOR-1]
+FormName=Mega Scizor
+BaseStats=70,150,140,75,65,100
+Abilities=TECHNICIAN
+Height=2.0
+Weight=125.0
+MegaStone=SCIZORITE
+#-------------------------------
+[HERACROSS-1]
+FormName=Mega Heracross
+BaseStats=80,185,115,75,40,105
+Abilities=SKILLLINK
+Height=1.7
+Weight=62.5
+MegaStone=HERACRONITE
+#-------------------------------
+[HOUNDOOM-1]
+FormName=Mega Houndoom
+BaseStats=75,90,90,115,140,90
+Abilities=SOLARPOWER
+Height=1.9
+Weight=49.5
+MegaStone=HOUNDOOMINITE
+#-------------------------------
+[TYRANITAR-1]
+FormName=Mega Tyranitar
+BaseStats=100,164,150,71,95,120
+Abilities=SANDSTREAM
+Height=2.5
+Weight=255.0
+MegaStone=TYRANITARITE
+#-------------------------------
+[BLAZIKEN-1]
+FormName=Mega Blaziken
+BaseStats=80,160,80,100,130,80
+Abilities=SPEEDBOOST
+MegaStone=BLAZIKENITE
+#-------------------------------
+[GARDEVOIR-1]
+FormName=Mega Gardevoir
+BaseStats=68,85,65,100,165,135
+Abilities=PIXILATE
+MegaStone=GARDEVOIRITE
+#-------------------------------
+[MAWILE-1]
+FormName=Mega Mawile
+BaseStats=50,105,125,50,55,95
+Abilities=HUGEPOWER
+Height=1.0
+Weight=23.5
+MegaStone=MAWILITE
+#-------------------------------
+[AGGRON-1]
+FormName=Mega Aggron
+Type2=STEEL
+BaseStats=70,140,230,50,60,80
+Abilities=FILTER
+Height=2.2
+Weight=395.0
+MegaStone=AGGRONITE
+#-------------------------------
+[MEDICHAM-1]
+FormName=Mega Medicham
+BaseStats=60,100,85,100,80,85
+Abilities=PUREPOWER
+MegaStone=MEDICHAMITE
+#-------------------------------
+[MANECTRIC-1]
+FormName=Mega Manectric
+BaseStats=70,75,80,135,135,80
+Abilities=INTIMIDATE
+Height=1.8
+Weight=44.0
+MegaStone=MANECTITE
+#-------------------------------
+[ABSOL-1]
+FormName=Mega Absol
+BaseStats=65,150,60,115,115,60
+Abilities=MAGICBOUNCE
+Weight=49.0
+MegaStone=ABSOLITE
+#-------------------------------
+[GARCHOMP-1]
+FormName=Mega Garchomp
+BaseStats=108,170,115,92,120,95
+Abilities=SANDFORCE
+MegaStone=GARCHOMPITE
+#-------------------------------
+[LUCARIO-1]
+FormName=Mega Lucario
+BaseStats=70,145,88,112,140,70
+Abilities=ADAPTABILITY
+Height=1.3
+Weight=57.5
+MegaStone=LUCARIONITE
+#-------------------------------
+[ABOMASNOW-1]
+FormName=Mega Abomasnow
+BaseStats=90,132,105,30,132,105
+Abilities=SNOWWARNING
+Height=2.7
+Weight=185.0
+MegaStone=ABOMASITE
+#-------------------------------
+[BEEDRILL-1]
+FormName=Mega Beedrill
+BaseStats=65,150,40,145,15,80
+Abilities=ADAPTABILITY
+Height=1.4
+Weight=40.5
+MegaStone=BEEDRILLITE
+#-------------------------------
+[PIDGEOT-1]
+FormName=Mega Pidgeot
+BaseStats=83,80,80,121,135,80
+Abilities=NOGUARD
+Height=2.2
+Weight=50.5
+MegaStone=PIDGEOTITE
+#-------------------------------
+[SLOWBRO-1]
+FormName=Mega Slowbro
+BaseStats=95,75,180,30,130,80
+Abilities=SHELLARMOR
+Height=2.0
+Weight=120.0
+MegaStone=SLOWBRONITE
+#-------------------------------
+[STEELIX-1]
+FormName=Mega Steelix
+BaseStats=75,125,230,30,55,95
+Abilities=SANDFORCE
+Height=10.5
+Weight=740.0
+MegaStone=STEELIXITE
+#-------------------------------
+[SCEPTILE-1]
+FormName=Mega Sceptile
+Type2=DRAGON
+BaseStats=70,110,75,145,145,85
+Abilities=LIGHTNINGROD
+Height=1.9
+Weight=55.2
+MegaStone=SCEPTILITE
+#-------------------------------
+[SWAMPERT-1]
+FormName=Mega Swampert
+BaseStats=100,150,110,70,95,110
+Abilities=SWIFTSWIM
+Height=1.9
+Weight=102.0
+MegaStone=SWAMPERTITE
+#-------------------------------
+[SABLEYE-1]
+FormName=Mega Sableye
+BaseStats=50,85,125,20,85,115
+Abilities=MAGICBOUNCE
+Weight=161.0
+MegaStone=SABLENITE
+#-------------------------------
+[SHARPEDO-1]
+FormName=Mega Sharpedo
+BaseStats=70,140,70,105,110,65
+Abilities=STRONGJAW
+Height=2.5
+Weight=130.3
+MegaStone=SHARPEDONITE
+#-------------------------------
+[CAMERUPT-1]
+FormName=Mega Camerupt
+BaseStats=70,120,100,20,145,105
+Abilities=SHEERFORCE
+Height=2.5
+Weight=320.5
+MegaStone=CAMERUPTITE
+#-------------------------------
+[ALTARIA-1]
+FormName=Mega Altaria
+Type2=FAIRY
+BaseStats=75,110,110,80,110,105
+Abilities=PIXILATE
+Height=1.5
+MegaStone=ALTARIANITE
+#-------------------------------
+[GLALIE-1]
+FormName=Mega Glalie
+BaseStats=80,120,80,100,120,80
+Abilities=REFRIGERATE
+Height=2.1
+Weight=350.2
+MegaStone=GLALITE
+#-------------------------------
+[SALAMENCE-1]
+FormName=Mega Salamence 
+BaseStats=95,145,130,120,120,90
+Abilities=AERILATE
+Height=1.8
+Weight=112.6
+MegaStone=SALAMENCITE
+#-------------------------------
+[METAGROSS-1]
+FormName=Mega Metagross  
+BaseStats=80,145,150,110,105,110
+Abilities=TOUGHCLAWS
+Height=2.5
+Weight=942.9
+MegaStone=METAGROSSITE
+#-------------------------------
+[LATIAS-1]
+FormName=Mega Latias  
+BaseStats=80,100,120,110,140,150
+Height=1.8
+Weight=52.0
+MegaStone=LATIASITE
+#-------------------------------
+[LATIOS-1]
+FormName=Mega Latios  
+BaseStats=80,130,100,110,160,120
+Height=2.3
+Weight=70.0
+MegaStone=LATIOSITE
+#-------------------------------
+[RAYQUAZA-1]
+FormName=Mega Rayquaza   
+BaseStats=105,180,100,115,180,100
+Abilities=DELTASTREAM
+Height=10.8
+Weight=392.0
+MegaMove=DRAGONASCENT
+MegaMessage=1
+#-------------------------------
+[LOPUNNY-1]
+FormName=Mega Lopunny   
+Type2=FIGHTING
+BaseStats=65,136,94,135,54,96
+Abilities=SCRAPPY
+Height=1.3
+Weight=28.3
+MegaStone=LOPUNNITE
+#-------------------------------
+[GALLADE-1]
+FormName=Mega Gallade   
+BaseStats=68,165,95,110,65,115
+Abilities=INNERFOCUS
+Weight=56.4
+MegaStone=GALLADITE
+#-------------------------------
+[AUDINO-1]
+FormName=Mega Audino
+Type2=FAIRY
+BaseStats=103,60,126,50,80,126
+Abilities=HEALER
+Height=1.5
+Weight=32.0
+MegaStone=AUDINITE
+#-------------------------------
+[DIANCIE-1]
+FormName=Mega Diancie
+BaseStats=50,160,110,110,160,110
+Abilities=MAGICBOUNCE
+Height=1.1
+Weight=27.8
+MegaStone=DIANCITE

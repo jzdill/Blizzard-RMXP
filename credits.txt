@@ -1,0 +1,4 @@
+Pokemon Essentials
+Elite Battle System
+Smogon XY Sprite Project
+pokemon.txt and pokemonforms.txt for Gen 6 by Ego13
