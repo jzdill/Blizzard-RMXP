@@ -144,6 +144,65 @@ EffortPoints=0,0,0,3,0,0
 Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,DOUBLETEAM,25,KNOCKOFF,33,PURSUIT,41,PSYCHIC,49,SWIFT,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,AGILITY,81,RECOVER,89,PSYCHOBOOST,97,EXTREMESPEED
 BattlerEnemyY=6
 #-------------------------------
+[TURTWIG-1]
+FormName=Deviant
+Type1=ICE
+BaseStats=55,45,64,45,55,31
+Moves=1,TACKLE,5,WITHDRAW,9,POWDERSNOW,13,ICYWIND,17,MIST,21,BITE,25,ANCIENTPOWER,29,DRAGONBREATH,33,HAIL,37,CRUNCH,41,ICEBEAM,45,DRAGONPULSE
+EggMoves=AMNESIA,BODYSLAM,DOUBLEEDGE,EARTHPOWER,SPITUP,STOCKPILE,SUPERPOWER,SWALLOW,THRASH,TICKLE,WIDEGUARD
+Abilities=ICEBODY
+#-------------------------------
+[GROTLE-1]
+FormName=Deviant
+Type1=ICE
+BaseStats=75,55,83,89,65,36
+Moves=1,TACKLE,1,WITHDRAW,5,WITHDRAW,9,POWDERSNOW,13,ICYWIND,17,MIST,22,BITE,27,ANCIENTPOWER,32,DRAGONBREATH,37,HAIL,42,CRUNCH,47,ICEBEAM,52,DRAGONPULSE
+Abilities=ICEBODY
+#-------------------------------
+[TORTERRA-1]
+FormName=Deviant
+Type1=ICE
+Type2=DRAGON
+BaseStats=95,75,105,109,85,56
+Moves=0,AIRSLASH,1,BLIZZARD,1,TACKLE,1,WITHDRAW,1,POWDERSNOW,1,ICYWIND,5,WITHDRAW,9,POWDERSNOW,13,ICYWIND,17,MIST,22,BITE,27,ANCIENTPOWER,32,AIRSLASH,33,DRAGONBREATH,39,HAIL,45,CRUNCH,51,ICEBEAM,57,DRAGONPULSE
+Abilities=ICEBODY
+#-------------------------------
+[CHIMCHAR-1]
+FormName=Deviant
+Type1=BUG
+#-------------------------------
+[MONFERNO-1]
+FormName=Deviant
+Type1=BUG
+#-------------------------------
+[INFERNAPE-1]
+FormName=Deviant
+Type1=BUG
+Type2=ROCK
+#-------------------------------
+[PIPLUP-1]
+FormName=Deviant
+Type1=POISON
+BaseStats=40,68,41,57,41,67
+Moves=1,POUND,4,GROWL,8,ACID,11,POISONGAS,15,PECK,18,SLUDGE,22,ACIDARMOR,25,FEINTATTACK,29,CHIPAWAY,32,TOXICSPIKES,36,TOXIC,39,DRILLPECK,43,GUNKSHOT
+EggMoves=AGILITY,BIDE,DOUBLEHIT,FEATHERDANCE,FLAIL,MUDSLAP,MUDSPORT,SNORE,SUPERSONIC,YAWN
+Abilities=INFILTRATOR
+#-------------------------------
+[PRINPLUP-1]
+FormName=Deviant
+Type1=POISON
+BaseStats=64,78,55,70,55,83
+Moves=0,PURSUIT,1,POUND,1,GROWL,4,GROWL,8,ACID,11,POISONGAS,15,PECK,16,PURSUIT,19,SLUDGE,24,ACIDARMOR,28,FEINTATTACK,33,CHIPAWAY,37,TOXICSPIKES,42,TOXIC,46,DRILLPECK,51,GUNKSHOT
+Abilities=INFILTRATOR
+#-------------------------------
+[EMPOLEON-1]
+FormName=Deviant
+Type1=POISON
+Type2=DARK
+BaseStats=76,109,71,95,71,108
+Moves=0,CROSSPOISON,1,SWAGGER,1,SWORDSDANCE,1,POUND,1,GROWL,1,ACID,4,GROWL,8,ACID,11,POISONGAS,15,PECK,16,PURSUIT,19,SLUDGE,24,ACIDARMOR,28,FEINTATTACK,33,CHIPAWAY,36,CROSSPOISON,39,NIGHTSLASH,46,TOXIC,52,DRILLPECK,59,GUNKSHOT
+Abilities=INFILTRATOR
+#-------------------------------
 [BURMY-1]
 FormName=Sandy Cloak
 BattlerEnemyY=24
@@ -779,3 +838,230 @@ Abilities=MAGICBOUNCE
 Height=1.1
 Weight=27.8
 MegaStone=DIANCITE
+#-------------------------------
+[SANDSHREW-1]
+FormName=Alolan Sandshrew
+Type1=ICE
+Type2=STEEL
+BaseStats=50,75,90,40,10,35
+Abilities=SNOWCLOAK
+HiddenAbility=SLUSHRUSH
+Moves=1,SCRATCH,1,DEFENSECURL,3,BIDE,5,POWDERSNOW,7,ICEBALL,9,RAPIDSPIN,11,FURYCUTTER,14,METALCLAW,17,SWIFT,20,FURYSWIPES,23,IRONDEFENSE,26,SLASH,30,IRONHEAD,34,GYROBALL,38,SWORDSDANCE,42,HAIL,46,BLIZZARD
+EggMoves=AMNESIA,CHIPAWAY,COUNTER,CRUSHCLAW,CURSE,ENDURE,FLAIL,ICICLECRASH,ICICLESPEAR,METALCLAW,NIGHTSLASH
+Height=0.7
+Weight=40.0
+Color=Gray
+Habitat=Mountain
+Pokedex=It lives on snowy mountains. Its steel shell is very hard--so much so, it can't roll its body up into a ball.
+WildItemUncommon=GRIPCLAW
+Evolutions=SANDSLASH,Item,ICESTONE
+#-------------------------------
+[SANDSLASH-1]
+FormName=Alolan Sandslash
+Type1=ICE
+Type2=STEEL
+BaseStats=75,100,120,65,25,65
+Abilities=SNOWCLOAK
+HiddenAbility=SLUSHRUSH
+Moves=1,ICICLESPEAR,1,METALBURST,1,ICICLECRASH,1,SLASH,1,DEFENSECURL,1,ICEBALL,1,METALCLAW
+Height=1.2
+Weight=55.0
+Color=Gray
+Habitat=Mountain
+Pokedex=Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.
+WildItemUncommon=QUICKCLAW
+#-------------------------------
+[VULPIX-1]
+FormName=Alolan Vulpix
+Type1=ICE
+BaseStats=38,41,40,65,50,65
+Abilities=SNOWCLOAK
+HiddenAbility=SNOWWARNING
+Moves=1,POWDERSNOW,4,TAILWHIP,7,ROAR,9,BABYDOLLEYES,10,ICESHARD,12,CONFUSERAY,15,ICYWIND,18,PAYBACK,20,MIST,23,FEINTATTACK,26,HEX,28,AURORABEAM,31,EXTRASENSORY,34,SAFEGUARD,36,ICEBEAM,39,IMPRISON,42,BLIZZARD,44,GRUDGE,47,CAPTIVATE,50,SHEERCOLD
+EggMoves=AGILITY,CHARM,DISABLE,ENCORE,EXTRASENSORY,FLAIL,FREEZEDRY,HOWL,HYPNOSIS,MOONBLAST,POWERSWAP,SPITE,SECRETPOWER,TAILSLAP
+Height=0.6
+Weight=9.9
+Color=White
+Habitat=Grassland
+Kind=Fox
+Pokedex=In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.
+WildItemUncommon=SNOWBALL
+Evolutions=NINETALES,Item,ICESTONE
+#-------------------------------
+[NINETALES-1]
+FormName=Alolan Ninetales
+Type1=ICE
+Type2=FAIRY
+BaseStats=73,67,75,109,81,100
+Abilities=SNOWCLOAK
+HiddenAbility=SNOWWARNING
+Moves=1,DAZZLINGGLEAM,1,IMPRISON,1,NASTYPLOT,1,ICEBEAM,1,ICESHARD,1,CONFUSERAY,1,SAFEGUARD
+Height=1.1
+Weight=19.9
+Color=White
+Habitat=Grassland
+Kind=Fox
+Pokedex=It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
+#-------------------------------
+[DIGLETT-1]
+FormName=Alolan Diglett
+Type1=GROUND
+Type2=STEEL
+BaseStats=10,55,30,90,35,45
+Abilities=SANDVEIL,TANGLINGHAIR
+HiddenAbility=SANDFORCE
+Moves=1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,28,EARTHPOWER,31,DIG,35,IRONHEAD,39,EARTHQUAKE,43,FISSURE
+EggMoves=ANCIENTPOWER,BEATUP,ENDURE,FEINTATTACK,FINALGAMBIT,HEADBUTT,MEMENTO,METALSOUND,PURSUIT,REVERSAL,THRASH
+Height=0.2
+Weight=1.0
+Color=Brown
+Habitat=Cave
+Kind=Mole
+Pokedex=Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.
+WildItemUncommon=SOFTSAND
+#-------------------------------
+[DUGTRIO-1]
+FormName=Alolan Dugtrio
+Type1=GROUND
+Type2=STEEL
+BaseStats=35,100,60,110,50,70
+Abilities=SANDVEIL,TANGLINGHAIR
+HiddenAbility=SANDFORCE
+Moves=1,SANDTOMB,1,ROTOTILLER,1,NIGHTSLASH,1,TRIATTACK,1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,30,EARTHPOWER,35,DIG,41,IRONHEAD,47,EARTHQUAKE,53,FISSURE
+Height=0.7
+Weight=66.6
+Color=Brown
+Habitat=Cave
+Kind=Mole
+Pokedex=Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.
+WildItemUncommon=SOFTSAND
+#-------------------------------
+[MEOWTH-1]
+FormName=Alolan Meowth
+Type1=DARK
+BaseStats=40,35,35,90,50,40
+GenderRate=Female50Percent
+Abilities=PICKUP,TECHNICIAN
+HiddenAbility=RATTLED
+Moves=1,SCRATCH,1,GROWL,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK,25,TAUNT,30,PAYDAY,33,SLASH,38,NASTYPLOT,41,ASSURANCE,46,CAPTIVATE,49,NIGHTSLASH,50,FEINT,55,DARKPULSE
+EggMoves=AMNESIA,ASSIST,CHARM,COVET,FLAIL,FLATTER,FOULPLAY,HYPNOSIS,PARTINGSHOT,PUNISHMENT,SNATCH,SPITE
+Height=0.4
+Weight=4.2
+Color=Gray
+Habitat=Urban
+Kind=Scratch Cat
+Pokedex=When its pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.
+WildItemUncommon=QUICKCLAW
+Evolutions=PERSIAN,Happiness
+#-------------------------------
+[PERSIAN-1]
+FormName=Alolan Persian
+Type1=DARK
+BaseStats=65,60,60,115,75,65
+Abilities=FURCOAT,TECHNICIAN
+HiddenAbility=RATTLED
+Moves=1,SWIFT,1,QUASH,1,PLAYROUGH,1,SWITCHEROO,1,SCRATCH,1,GROWL,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK,25,TAUNT,32,POWERGEM,37,SLASH,44,NASTYPLOT,49,ACUPRESSURE,56,CAPTIVATE,61,NIGHTSLASH,65,FEINT,69,DARKPULSE
+Height=1.1
+Weight=33.0
+Color=Gray
+Habitat=Urban
+Kind=Classy Cat
+Pokedex=It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.
+#-------------------------------
+[GEODUDE-1]
+FormName=Alolan Geodude
+Type1=ROCK
+Type2=ELECTRIC
+BaseStats=40,80,100,20,30,30
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,28,STEALTHROCK,30,ROCKBLAST,34,DISCHARGE,36,EXPLOSION,40,DOUBLEEDGE,42,STONEEDGE
+EggMoves=AUTOTOMIZE,BLOCK,COUNTER,CURSE,ENDURE,FLAIL,MAGNETRISE,ROCKCLIMB,SCREECH,WIDEGUARD
+Height=0.4
+Weight=20.3
+Color=Gray
+Habitat=Cave
+Kind=Rock
+Pokedex=Its body is a magnetic stone. Iron sand attaches to the portions of its body that are particularly magnetic.
+WildItemUncommon=CELLBATTERY
+#-------------------------------
+[GRAVELER-1]
+FormName=Alolan Graveler
+Type1=ROCK
+Type2=ELECTRIC
+BaseStats=55,95,115,35,45,45
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE
+Height=1.0
+Weight=110.0
+Color=Gray
+Habitat=Cave
+Kind=Rock
+Pokedex=Its preferred food is dravite. After it's eaten, crystals form inside the Pokémon, rising to the surface of its body.
+WildItemUncommon=CELLBATTERY
+Evolutions=AGOLEM,Trade
+#-------------------------------
+[GOLEM-1]
+Name=Alolan Golem
+Type1=ROCK
+Type2=ELECTRIC
+BaseStats=80,120,130,45,55,65
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,HEAVYSLAM,1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,STEAMROLLER,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE,60,HEAVYSLAM
+Height=1.7
+Weight=316.0
+Color=Brown
+Habitat=Cave
+Kind=Megaton
+Pokedex=Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.
+#-------------------------------
+[GRIMER-1]
+FormName=Alolan Grimer
+Type1=POISON
+Type2=DARK
+BaseStats=80,80,50,25,40,50
+Abilities=POISONTOUCH,GLUTTONY
+HiddenAbility=POWEROFALCHEMY
+Moves=1,POUND,1,POISONGAS,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,21,MINIMIZE,26,FLING,29,KNOCKOFF,32,CRUNCH,37,SCREECH,40,GUNKSHOT,43,ACIDARMOR,46,BELCH,48,MEMENTO
+EggMoves=ASSURANCE,CLEARSMOG,CURSE,IMPRISON,MEANLOOK,PURSUIT,SCARYFACE,SHADOWSNEAK,SPITE,SPITUP,STOCKPILE,SWALLOW
+Height=0.7
+Weight=42.0
+Color=Green
+Habitat=Urban
+Kind=Sludge
+Pokedex=The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.
+WildItemUncommon=BLACKSLUDGE
+#-------------------------------
+[MUK-1]
+FormName=Alolan Muk
+Type1=POISON
+Type2=DARK
+BaseStats=105,105,75,50,65,100
+Abilities=POISONTOUCH,GLUTTONY
+HiddenAbility=POWEROFALCHEMY
+Moves=1,VENOMDRENCH,1,POUND,1,POISONGAS,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,21,MINIMIZE,26,FLING,29,KNOCKOFF,32,CRUNCH,37,SCREECH,40,GUNKSHOT,46,ACIDARMOR,52,BELCH,57,MEMENTO
+Height=1.0
+Weight=52.0
+Color=Green
+Habitat=Urban
+Kind=Sludge
+Pokedex=The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.
+#-------------------------------
+[EXEGGUTOR-1]
+FormName=Alolan Exeggutor
+Type1=GRASS
+Type2=DRAGON
+BaseStats=95,105,85,45,125,75
+Abilities=FRISK
+HiddenAbility=HARVEST
+Moves=1,DRAGONHAMMER,1,SEEDBOMB,1,BARRAGE,1,HYPNOSIS,1,CONFUSION,17,PSYSHOCK,27,EGGBOMB,37,WOODHAMMER,47,LEAFSTORM
+Height=10.9
+Weight=415.6
+Color=Yellow
+Habitat=Grassland
+Kind=Coconut
+Pokedex=As it grew taller and taller, it outgrew its reliance on psychic powers, awakening the power of the sleeping dragon.
+BattlerPlayerY=100
+BattlerEnemyY=100

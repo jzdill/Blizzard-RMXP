@@ -2,3 +2,80 @@ Pokemon Essentials
 Elite Battle System
 Smogon XY Sprite Project
 pokemon.txt and pokemonforms.txt for Gen 6 by Ego13
+Thundaga
+
+----------------------------------
+Credits for the Gen 6 Pokemon Essentials Project
+
+Project Organization:
+WorldSlayer
+
+Pokemon Sprites:
+http://www.pkparaiso.com/
+/u/sicns
+/u/Evolemon
+
+Pokemon Icons:
+Pikachumazzinga
+
+PBS file editing:
+mej71
+karstictrainer
+WorldSlayer
+TheDeKay
+viperk1
+SunakazeKun
+Radical Raptr
+RPD490
+Takyon!
+Pokegod7020
+
+Research:
+Drakath569
+Florio
+MrDeepDarkMind
+snooper117
+----------------------------------
+
+----------------------------------
+Credits for the Gen 7 Pokemon Essentials Project
+
+- Marin
+- Zeak6464
+- Tapu Fini
+- SpartaLazor
+- leparagon
+- BlackOutG5
+- Rune
+- M3rein
+- Rigbycwts
+- Rot8er_ConeX
+- James Davy
+- Luka S.J.
+----------------------------------
+
+----------------------------------
+Gen 7 Sprites from Pokemon Reborn
+	Amethyst
+	Jan
+	Zumi
+	Bazaro
+	Koyo
+	Smeargletail
+	Alex
+	Noscium
+	Leparagon
+	N-kin
+	fishbowlsoul90
+	princess-phoenix
+	DatLopunnyTho
+	Conyjams 
+	kaji atsu 
+	The cynical poet
+	LuigiPlayer
+	Falgaia of the Smogon S/M sprite project
+	Pikafan2000
+	Lord-Myre
+	
+	A-Exeggutor Fix/Multiple Dex Forms scripts by Marcello
+----------------------------------
