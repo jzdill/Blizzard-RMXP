@@ -1063,5 +1063,3 @@ Color=Yellow
 Habitat=Grassland
 Kind=Coconut
 Pokedex=As it grew taller and taller, it outgrew its reliance on psychic powers, awakening the power of the sleeping dragon.
-BattlerPlayerY=100
-BattlerEnemyY=100

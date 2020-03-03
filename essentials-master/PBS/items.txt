@@ -666,3 +666,5 @@
 673,ZYGARDECUBE,Zygarde Cube,Zygarde Cubes,8,0,"An item to store Zygarde Cores and Cells. You can also use it to teach Zygarde moves.",0,0,6,
 674,FISHINGROD,Fishing Rod,Fishing Rods,8,0,"A Fishing Rod made by Captain Lana. Cast a line over piles of underwater rocks to fish for wild aquatic Pokémon.",2,0,6,
 675,PROFSMASK,Professor's Mask,Professor's Masks,8,0,"The mask that belongs to The Masked Royal. This pro wrestler apparently sews his mask on a machine himself.",0,0,6,
+676,SCHOOLNOTE,Note,Notes,8,0,"Pass it on!",0,0,6
+677,ANSNOTE,Note,Notes,8,0,"Pass it on!",0,0,6
