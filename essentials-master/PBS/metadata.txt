@@ -419,3 +419,15 @@ ShowArea=true
 Bicycle=true
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[092]
+# Radec City
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[093]
+# Route 63
+Bicycle=true
+Outdoor=true
+ShowArea=true

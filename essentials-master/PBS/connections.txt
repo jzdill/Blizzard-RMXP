@@ -38,13 +38,19 @@
 21,East,77,47,West,0
 # Zach's Town (32) - Route 101 (42)
 32,North,10,42,South,0
+# Radec City (92) - Route 63 (93)
+92,East,0,93,West,4
 # Route 62 (90) - Puam Town (83)
 90,West,10,83,East,0
 # Route 64 (91) - Puam Town (83)
-91,North,1,83,South,0
+91,North,0,83,South,0
 # Route 61 (81) - Puam Town (83)
 81,East,0,83,West,6
 # Route 64 (91) - Route 62 (90)
 91,East,0,90,West,80
+# Route 61 (81) - Route 64 (91)
+81,East,64,91,West,0
+# Radec City (92) - Route 64 (91)
+92,North,1,91,South,0
 # Eadra Town (76) - Route 61 (81)
 76,East,0,81,West,3
