@@ -668,3 +668,4 @@
 675,PROFSMASK,Professor's Mask,Professor's Masks,8,0,"The mask that belongs to The Masked Royal. This pro wrestler apparently sews his mask on a machine himself.",0,0,6,
 676,SCHOOLNOTE,Note,Notes,8,0,"Pass it on!",0,0,6
 677,ANSNOTE,Note,Notes,8,0,"Pass it on!",0,0,6
+678,FELIXSCOIN,Felix's Coin,Felix's Coins,8,0,"A small coin with the Military's Insignia on it. The backside has an odd tree symbol etched into it.",0,0,6

@@ -1,8 +1,22 @@
+----------------------------------
 Pokemon Essentials
+----------------------------------
+
+----------------------------------
 Elite Battle System
+----------------------------------
+
+----------------------------------
 Smogon XY Sprite Project
+----------------------------------
+
+----------------------------------
 pokemon.txt and pokemonforms.txt for Gen 6 by Ego13
-Thundaga
+----------------------------------
+
+----------------------------------
+Thundaga's "How to Make a Pokemon Game" YouTube series
+----------------------------------
 
 ----------------------------------
 Credits for the Gen 6 Pokemon Essentials Project
@@ -76,6 +90,12 @@ Gen 7 Sprites from Pokemon Reborn
 	Falgaia of the Smogon S/M sprite project
 	Pikafan2000
 	Lord-Myre
-	
-	A-Exeggutor Fix/Multiple Dex Forms scripts by Marcello
+----------------------------------
+
+----------------------------------
+USUM Cries ripped by Phasma
+----------------------------------
+
+----------------------------------
+pbSetSelfSwitch2 script by Mugendai/DoctorInfinity
 ----------------------------------

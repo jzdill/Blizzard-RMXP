@@ -109,6 +109,11 @@ MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[022]
+# Deserter's Cave
+Bicycle=true
+ShowArea=true
+#-------------------------------
 [023]
 # Lerucean Town
 MapPosition=0,15,8
@@ -431,3 +436,28 @@ ShowArea=true
 Bicycle=true
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[094]
+# B1F
+Bicycle=true
+#-------------------------------
+[095]
+# B2F
+Bicycle=true
+#-------------------------------
+[096]
+# B2F-1
+Bicycle=true
+#-------------------------------
+[097]
+# B2F-2
+Bicycle=true
+DarkMap=true
+#-------------------------------
+[098]
+# B1F-1
+Bicycle=true
+#-------------------------------
+[099]
+# 1F-1
+Bicycle=true
