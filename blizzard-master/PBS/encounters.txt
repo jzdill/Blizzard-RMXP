@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-002 # Lappet Town
+002
 25,10,10
 Water
     TENTACOOL,14,19
@@ -22,7 +22,7 @@ SuperRod
     STARYU,15,17
     STARYU,15,17
 #-------------------------------
-005 # Route 1
+005 # Essentials Base Maps
 25,10,10
 Land
     RATTATA,11,14
@@ -103,6 +103,22 @@ HeadbuttHigh
     SPINARAK,9,12
     SPINARAK,9,12
     SPINARAK,9,12
+#-------------------------------
+022 # Deserter's Cave
+25,10,10
+Cave
+    ZUBAT,9,11
+    PARAS,9,11
+    MANKEY,10
+    GEODUDE,9,11
+    SANDSHREW,9,11
+    DIGLETT,9,10
+    CHINGLING,10
+    CHINGLING,10
+    PARAS,9,11
+    MANKEY,10,11
+    PARAS,9,11
+    MANKEY,10,12
 #-------------------------------
 028 # Natural Park
 25,10,10
@@ -218,6 +234,27 @@ HeadbuttHigh
     BURMY,12,15
     BURMY,12,15
 #-------------------------------
+032 # Zach's Town
+25,10,10
+HeadbuttLow
+    MUNCHLAX,8,10
+    HERACROSS,9
+    TREECKO,9
+    TREECKO,9
+    PINSIR,10
+    TEDDIURSA,7,8
+    COMBEE,5,7
+    SHAYMIN,1
+HeadbuttHigh
+    WURMPLE,2,5
+    AIPOM,3,7
+    PINECO,3,6
+    PINECO,3,6
+    TREECKO,7,8
+    TREECKO,7,8
+    SEEDOT,5
+    NUZLEAF,10
+#-------------------------------
 034 # Ice Cave
 25,10,10
 Cave
@@ -265,6 +302,22 @@ Land
     SLUGMA,13,14
     SLUGMA,13,14
     SLUGMA,13,14
+#-------------------------------
+042 # Route 101
+25,10,10
+Land
+    WEEDLE,3,5
+    WEEDLE,3,5
+    NINCADA,4,5
+    NINCADA,4,5
+    BIDOOF,5
+    PATRAT,5
+    LILLIPUP,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
 #-------------------------------
 044 # Route 6
 25,10,10
@@ -469,3 +522,297 @@ Land
     CUBONE,11,14
     CUBONE,11,14
     CUBONE,11,14
+#-------------------------------
+076 # Eadra Town
+25,10,10
+Water
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    BULBASAUR,5
+    BULBASAUR,5
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+081 # Route 61
+25,10,10
+Land
+    WINGULL,2,3
+    RATTATA,2,3
+    WINGULL,2,3
+    PIDGEY,3
+    PIDGEY,3
+    TEDDIURSA,2,3
+    POOCHYENA,2,3
+    POOCHYENA,2,3
+    HOPPIP,3
+    HOPPIP,3
+    HOPPIP,3
+    HOPPIP,3
+Water
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    MAGIKARP,5,12
+    GOLDEEN,10,16
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+HeadbuttHigh
+    PINECO,6,9
+    SEEDOT,7,8
+    HOOTHOOT,7,9
+    WEEDLE,5,6
+    WEEDLE,5,6
+    WEEDLE,5,6
+    KAKUNA,8,9
+    KAKUNA,8,9
+#-------------------------------
+083 # Puam Town
+25,10,10
+Water
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    MAGIKARP,5,12
+    GOLDEEN,10,16
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+HeadbuttHigh
+    PINECO,6,9
+    SEEDOT,7,8
+    HOOTHOOT,7,9
+    CATERPIE,5,6
+    CATERPIE,5,6
+    CATERPIE,5,6
+    METAPOD,8,9
+    METAPOD,8,9
+#-------------------------------
+090 # Route 62
+25,10,10
+Land
+    ELECTRIKE,3,4
+    PHANPY,4,5
+    BONSLY,3,5
+    POOCHYENA,3,4
+    NIDORANfE,3,5
+    NIDORANmA,3,5
+    BONSLY,3,5
+    POOCHYENA,3,4
+    TEDDIURSA,3,5
+    TEDDIURSA,3,5
+    TEDDIURSA,3,6
+    TEDDIURSA,3,6
+Water
+    SQUIRTLE,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    MAGIKARP,5,12
+    POLIWAG,10,15
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+091 # Route 64
+25,10,10
+Land
+    PIDGEY,3,4
+    HOPPIP,3,5
+    KRABBY,4,6
+    KRABBY,4,6
+    WINGULL,4,6
+    WINGULL,4,7
+    TEDDIURSA,4,6
+    TEDDIURSA,4,6
+    TEDDIURSA,4,6
+    RALTS,5,6
+    TEDDIURSA,5,7
+    RALTS,5,8
+OldRod
+    MAGIKARP,5,12
+    GOLDEEN,10,16
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+HeadbuttHigh
+    WURMPLE,7,10
+    METAPOD,7,10
+    KAKUNA,7,10
+    PINECO,7,12
+    PINECO,7,12
+    PINECO,7,12
+    NUZLEAF,15,17
+    NUZLEAF,15,17
+#-------------------------------
+092 # Radec City
+25,10,10
+Land
+    PIDGEY,13,17
+    SENTRET,15,17
+    RATTATA,15
+    HOPPIP,14,16
+    SUNKERN,12,15
+    SUNKERN,13,16
+    SUNKERN,14,16
+    HOPPIP,14,16
+    CUTIEFLY,13,16
+    CUTIEFLY,13,16
+    CUTIEFLY,13,16
+    CUTIEFLY,13,16
+Water
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+OldRod
+    MAGIKARP,5,12
+    GOLDEEN,10,16
+GoodRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+SuperRod
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+#-------------------------------
+093 # Route 63
+25,10,10
+Land
+    PIDGEY,14,16
+    HOPPIP,14,16
+    EKANS,15,17
+    SENTRET,15,17
+    ELECTRIKE,15,17
+    NIDORANmA,14,16
+    NIDORANfE,14,16
+    NIDORANfE,14,16
+    VENONAT,16,17
+    VENONAT,16,17
+    VENONAT,16,17
+    PIDGEOTTO,17,20
+HeadbuttHigh
+    LEDYBA,14,15
+    SEEDOT,14,16
+    PINECO,14,15
+    NUZLEAF,16,18
+    BEEDRILL,17,20
+    BUTTERFREE,17,20
+    VENONAT,16,17
+    VENONAT,17,18
+#-------------------------------
+094 # Deserter's Cave B1F
+25,10,10
+Cave
+    ZUBAT,9,11
+    PARAS,9,11
+    MANKEY,10
+    GEODUDE,9,11
+    SANDSHREW,9,11
+    DIGLETT,9,10
+    CHINGLING,10
+    CHINGLING,10
+    PARAS,9,11
+    CUBONE,11,12
+    PARAS,9,11
+    MANKEY,10,12
+#-------------------------------
+095 # Deserter's Cave B2F
+25,10,10
+Cave
+    ZUBAT,11,13
+    PARAS,12,14
+    SANDSHREW,11,13
+    CUBONE,12,14
+    MANKEY,11,13
+    GEODUDE,11,13
+    CHINGLING,11,13
+    CHINGLING,11,13
+    DIGLETT,12
+    DIGLETT,12,13
+    DIGLETT,12,13
+    BAGON,10
+#-------------------------------
+096 # Deserter's Cave B2F-1
+25,10,10
+Cave
+    ABRA,12,13
+    ZUBAT,11,13
+    SANDSHREW,11,13
+    PARAS,12,13
+    MANKEY,11,13
+    GEODUDE,11,13
+    CUBONE,12,14
+    ABRA,12,13
+    ABRA,12,13
+    ABRA,12,13
+    ABRA,12,13
+    ABRA,14
+#-------------------------------
+099 # Deserter's Cave 1F-1
+25,10,10
+Cave
+    ZUBAT,9,11
+    PARAS,9,11
+    MANKEY,10
+    GEODUDE,9,11
+    SANDSHREW,9,11
+    DIGLETT,9,10
+    CHINGLING,10
+    CHINGLING,10
+    PARAS,9,11
+    CUBONE,11,12
+    PARAS,9,11
+    MANKEY,10,12

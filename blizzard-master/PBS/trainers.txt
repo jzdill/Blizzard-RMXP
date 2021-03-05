@@ -1,13 +1,11 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [CAMPER,Liam]
-LoseText = "A very good battle, indeed!"
 Pokemon = DIGLETT,10
 Pokemon = BONSLY,11
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = "Very good."
 Pokemon = GEODUDE,12
     Gender = male
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
@@ -24,60 +22,44 @@ Pokemon = ONIX,14
     Ball = 19
 #-------------------------------
 [TEAMROCKET_M,Grunt,1]
-LoseText = "You're too good for me!"
 Pokemon = WEEPINBELL,21
     Shadow = yes
 #-------------------------------
 [TEAMROCKET_F,Grunt,1]
-LoseText = "You're too good for me!"
 Pokemon = BURMY,19
 Pokemon = WINGULL,19
 Pokemon = ELECTABUZZ,20
     Shadow = yes
 #-------------------------------
-[YOUNGSTER,Ben]
-LoseText = "Aww, I lost."
-Pokemon = RATTATA,11
-Pokemon = EKANS,11
-#-------------------------------
 [CAMPER,Jeff]
-LoseText = "A very good battle, indeed!"
 Pokemon = SPEAROW,16
 Pokemon = SENTRET,16
 #-------------------------------
 [CAMPER,Jeff,1]
-LoseText = "You beat me again!"
 Pokemon = FEAROW,29
 Pokemon = FURRET,29
 #-------------------------------
 [PICNICKER,Susie]
-LoseText = "Defeated! Oh my!"
 Pokemon = MEOWTH,18
 #-------------------------------
 [PICNICKER,Susie,1]
-LoseText = "Defeated! Oh my!"
 Pokemon = PERSIAN,32
 #-------------------------------
 [HIKER,Ford]
-LoseText = "You're too good for me!"
 Pokemon = MACHOP,19
 #-------------------------------
 [FISHERMAN,Andrew]
-LoseText = "Washed out!"
 Pokemon = MAGIKARP,14
 Pokemon = MAGIKARP,18
 #-------------------------------
 [BEAUTY,Bridget]
-LoseText = "My Skitty!"
 Pokemon = SKITTY,18
 #-------------------------------
 [LASS,Crissy]
-LoseText = "You didn't have to win so convincingly!"
 Pokemon = PLUSLE,17
 Pokemon = MINUN,17
 #-------------------------------
 [COOLCOUPLE,Alice & Bob]
-LoseText = "Our teamwork failed!"
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
 #-------------------------------
@@ -85,33 +67,150 @@ Pokemon = CHIMCHAR,19
 Pokemon = MARSHTOMP,19
 #-------------------------------
 [SWIMMER2_F,Ariel]
-LoseText = "Washed out!"
 Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
 #-------------------------------
-[RIVAL1,Blue]
-LoseText = "Not too shabby."
+[FELIX,Blue]
 Pokemon = PIDGEOTTO,17
 Pokemon = RATTATA,15
 Pokemon = BULBASAUR,18
 #-------------------------------
-[RIVAL1,Blue,1]
-LoseText = "Not too shabby."
+[FELIX,Blue,1]
 Pokemon = PIDGEOTTO,17
 Pokemon = RATTATA,15
 Pokemon = CHARMANDER,18
 #-------------------------------
-[RIVAL1,Blue,2]
-LoseText = "Not too shabby."
+[FELIX,Blue,2]
 Pokemon = PIDGEOTTO,17
 Pokemon = RATTATA,15
 Pokemon = SQUIRTLE,18
 #-------------------------------
 [CHAMPION,Blue]
-LoseText = "A good battle indeed!"
 Pokemon = VENUSAUR,63
     Item = SITRUSBERRY
 Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[AURORA,Aurora]
+Pokemon = SWABLU,4
+Pokemon = CLAMPERL,4
+#-------------------------------
+[YOUNGSTER,Larry]
+Pokemon = ZIGZAGOON,5
+Pokemon = MIMEJR,5
+#-------------------------------
+[YOUNGSTER,Tim]
+Pokemon = TYROGUE,7
+Pokemon = EKANS,5
+#-------------------------------
+[LASS,Samantha]
+Pokemon = PHANPY,7
+Pokemon = NIDORANfE,7
+#-------------------------------
+[YOUNGSTER,Austin]
+Pokemon = ELECTRIKE,7
+Pokemon = NIDORANmA,8
+#-------------------------------
+[LASS,Michelle]
+Pokemon = MANKEY,10
+#-------------------------------
+[FISHERMAN,Jerry]
+Pokemon = MAGIKARP,19
+Pokemon = MAGIKARP,19
+Pokemon = GOLDEEN,23
+#-------------------------------
+[LASS,Diana]
+Pokemon = TEDDIURSA,5
+Pokemon = PIDGEY,4
+#-------------------------------
+[HIKER,Lyle]
+Pokemon = GEODUDE,10
+Pokemon = BONSLY,10
+#-------------------------------
+[YOUNGSTER,Ben]
+Pokemon = ZUBAT,12
+#-------------------------------
+[PICNICKER,Nancy]
+Pokemon = MANKEY,11
+Pokemon = GEODUDE,10
+#-------------------------------
+[GENTLEMAN,Maxwell]
+Pokemon = PARAS,12
+Pokemon = ELECTRIKE,12
+#-------------------------------
+[CAMPER,Wilbur]
+Pokemon = RATTATA,12
+#-------------------------------
+[CAMPER,Edward]
+Pokemon = CUBONE,10
+Pokemon = ZIGZAGOON,11
+Pokemon = CHINGLING,11
+#-------------------------------
+[HIKER,Randall]
+Pokemon = MANKEY,13
+Pokemon = ARON,14
+#-------------------------------
+[CAMPER,Steven]
+Pokemon = PARAS,14
+Pokemon = NIDORANmA,12
+Pokemon = CHINGLING,13
+#-------------------------------
+[HIKER,Arnold]
+Pokemon = ONIX,15
+#-------------------------------
+[YOUNGSTER,Jimmy]
+Pokemon = ZUBAT,13
+Pokemon = ZUBAT,13
+#-------------------------------
+[HIKER,George]
+Pokemon = MANKEY,14
+Pokemon = GEODUDE,14
+#-------------------------------
+[GENTLEMAN,Reynold]
+Pokemon = BAGON,17
+#-------------------------------
+[CAMPER,Jonathan]
+Pokemon = RATTATA,14
+Pokemon = WINGULL,15
+#-------------------------------
+[NURSE,Janice]
+Items = SUPERPOTION
+Pokemon = CHANSEY,13
+    Moves = SOFTBOILED,SING,DOUBLESLAP,MIMIC
+#-------------------------------
+[FELIX,???]
+Items = POTION,POTION
+Pokemon = BULBASAUR,21
+    Gender = male
+    Moves = RAZORLEAF,SLEEPPOWDER,ACID,CHARM
+    Item = SITRUSBERRY
+#-------------------------------
+[BUGCATCHER,Karl]
+Pokemon = DUSTOX,19
+Pokemon = BEAUTIFLY,19
+#-------------------------------
+[PSYCHIC_F,Sierra]
+Pokemon = KIRLIA,20
+Pokemon = SANDSHREW,19
+#-------------------------------
+[BUGCATCHER,Brandon]
+Pokemon = PINECO,16
+Pokemon = BUTTERFREE,17
+Pokemon = BEEDRILL,17
+#-------------------------------
+[YOUNGSTER,Zane]
+Pokemon = HOUNDOUR,19
+Pokemon = SENTRET,16
+#-------------------------------
+[ICE,Jasper]
+Pokemon = MACHOP,5
+Pokemon = SQUIRTLE,7
+    Gender = male
+    Moves = WATERGUN,TACKLE,TAILWHIP,AQUAJET
+    Item = ORANBERRY
+#-------------------------------
+[BIRDKEEPER,Phillip]
+Pokemon = PIDGEY,18
+Pokemon = PIDGEOTTO,20

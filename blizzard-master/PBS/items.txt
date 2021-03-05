@@ -646,3 +646,12 @@
 631,NSOLARIZER,N-Solarizer,N-Solarizers,8,0,"A machine to fuse Necrozma, which needs light, and Solgaleo.",5,0,6,
 632,NLUNARIZER,N-Lunarizer,N-Lunarizers,8,0,"A machine to fuse Necrozma, which needs light, and Lunala.",5,0,6,
 633,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.",0,0,6,
+#-------------------------------
+
+# GAP FOR GEN 8 ITEMS
+
+#-------------------------------
+692,SCHOOLNOTE,Note,Notes,8,0,"Pass it on!",0,0,6
+693,ANSNOTE,Note,Notes,8,0,"Pass it on!",0,0,6
+694,FELIXSCOIN,Felix's Coin,Felix's Coins,8,0,"A small coin with the Military's Insignia on it. The backside has an odd tree symbol etched into it.",0,0,6
+#-------------------------------

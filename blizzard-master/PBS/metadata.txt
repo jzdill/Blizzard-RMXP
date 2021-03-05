@@ -15,24 +15,22 @@ WildBattleBGM = Battle wild.mid
 # Intro
 #-------------------------------
 [002]
-# Lappet Town
+# Radec Gym
 BattleBack = field
 MapPosition = 0,13,12
-Outdoor = true
-ShowArea = true
+Outdoor = false
+ShowArea = false
 #-------------------------------
 [003]
-# \PN's house
 MapPosition = 0,13,12
 HealingSpot = 2,8,8
 #-------------------------------
 [004]
-# Pokémon Lab
 MapPosition = 0,13,12
 ShowArea = false
 #-------------------------------
 [005]
-# Route 1
+# Essentials Base Maps
 BattleBack = field
 MapPosition = 0,13,11
 Outdoor = true
@@ -50,8 +48,8 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [008]
-# Daisy's house
 MapPosition = 0,13,12
+ShowArea = true
 #-------------------------------
 [009]
 # Cedolan City Poké Center
@@ -111,6 +109,10 @@ BattleBack = field
 Weather = Rain,100
 MapPosition = 0,14,8
 Outdoor = true
+ShowArea = true
+#-------------------------------
+[022]
+# Deserter's Cave
 ShowArea = true
 #-------------------------------
 [023]
@@ -390,3 +392,31 @@ MapPosition = 0,12,10
 BattleBack = city
 MapPosition = 1,13,16
 Outdoor = true
+#-------------------------------
+[076]
+# Eadra Town
+ShowArea = true
+#-------------------------------
+[081]
+# Route 61
+ShowArea = true
+#-------------------------------
+[083]
+# Puam Town
+ShowArea = true
+#-------------------------------
+[090]
+# Route 62
+ShowArea = true
+#-------------------------------
+[091]
+# Route 64
+ShowArea = true
+#-------------------------------
+[092]
+# Radec City
+ShowArea = true
+#-------------------------------
+[093]
+# Route 63
+ShowArea = true
