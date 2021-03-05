@@ -214,3 +214,25 @@ Pokemon = SQUIRTLE,7
 [BIRDKEEPER,Phillip]
 Pokemon = PIDGEY,18
 Pokemon = PIDGEOTTO,20
+#-------------------------------
+[BIRDKEEPER,Reed]
+Pokemon = ZUBAT,18
+Pokemon = SKIPLOOM,20
+#-------------------------------
+[LEADER_Wendell,Wendell]
+Items = SUPERPOTION,SUPERPOTION
+LoseLine = "Filler LoseLine"
+Pokemon = FEAROW,18
+	Gender = male
+	Moves = AERIALACE,FURYATTACK,LEER,PURSUIT
+Pokemon = MANTYKE,18
+	Gender = female
+	Moves = AERIALACE,BUBBLEBEAM,CONFUSERAY,HEADBUTT
+Pokemon = FLETCHINDER,18
+	Gender = male
+	Moves = AERIALACE,EMBER,QUICKATTACK,FLAIL
+Pokemon = GLIGAR,22
+	Gender = female
+	Moves = AERIALACE,QUICKATTACK,SANDTOMB,SANDATTACK
+	Item = LUMBERRY
+#-------------------------------
