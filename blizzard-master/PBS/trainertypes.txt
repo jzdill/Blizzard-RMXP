@@ -5,7 +5,7 @@
 2,POKEMONTRAINER_Brendan,Pokémon Trainer,60,,,,Male,,
 3,POKEMONTRAINER_May,Pokémon Trainer,60,,,,Female,,
 4,RIVAL,Rival,50,,,,Male,,
-5,FELIX,Trainer,30,,,,Male,,50
+5,FELIX,Trainer,30,,,,Male,100,
 6,AROMALADY,Aroma Lady,32,,,,Female,,
 7,BEAUTY,Beauty,56,,,,Female,,
 8,BIKER,Biker,32,,,,Male,,
@@ -73,6 +73,6 @@
 70,ELITEFOUR_Lance,Elite Four,100,Battle Elite,Battle victory leader,,Male,,
 71,CHAMPION,Champion,100,Battle Elite,Battle victory leader,,Male,,
 72,NURSE,Nurse,20,,,,Female,,35
-73,AURORA,Trainer,30,,,,Female,,50
-74,ICE,Trainer,30,,,,Male,,50
-75,LEADER_Wendell,Gym Leader,100,Battle Gym Leader,Battle victory leader,,Male,,
+73,AURORA,Trainer,30,,,,Female,100,
+74,ICE,Trainer,30,,,,Male,100,
+75,LEADER_Wendell,Gym Leader,50,Battle Gym Leader,Battle victory leader,,Male,100,
