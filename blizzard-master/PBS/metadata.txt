@@ -8,7 +8,7 @@ WildVictoryME = Battle victory wild.ogg
 TrainerBattleBGM = Battle trainer.mid
 SurfBGM = Surfing.mid
 BicycleBGM = Bicycle.mid
-Home = 3,7,5,8
+Home = 77,4,7,8
 WildBattleBGM = Battle wild.mid
 #-------------------------------
 [001]

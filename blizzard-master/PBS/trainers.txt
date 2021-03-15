@@ -183,6 +183,7 @@ Pokemon = CHANSEY,13
 [FELIX,???]
 Items = POTION,POTION
 Pokemon = BULBASAUR,21
+	Name = Dregs
     Gender = male
     Moves = RAZORLEAF,SLEEPPOWDER,ACID,CHARM
     Item = SITRUSBERRY
@@ -208,21 +209,21 @@ Pokemon = SENTRET,16
 Pokemon = MACHOP,5
 Pokemon = SQUIRTLE,7
     Gender = male
-    Moves = WATERGUN,TACKLE,TAILWHIP,AQUAJET
+    Moves = WATERGUN,TACKLE,TAILWHIP,AURASPHERE
     Item = ORANBERRY
 #-------------------------------
 [BIRDKEEPER,Phillip]
-Pokemon = PIDGEY,18
-Pokemon = PIDGEOTTO,20
+Pokemon = DUCKLETT,18
+Pokemon = PIDGEOTTO,18
 #-------------------------------
 [BIRDKEEPER,Reed]
 Pokemon = ZUBAT,18
-Pokemon = SKIPLOOM,20
+Pokemon = SKIPLOOM,18
 #-------------------------------
 [LEADER_Wendell,Wendell]
 Items = SUPERPOTION,SUPERPOTION
 LoseLine = "Filler LoseLine"
-Pokemon = FEAROW,18
+Pokemon = FEAROW,20
 	Gender = male
 	Moves = AERIALACE,FURYATTACK,LEER,PURSUIT
 Pokemon = MANTYKE,18
@@ -231,8 +232,8 @@ Pokemon = MANTYKE,18
 Pokemon = FLETCHINDER,18
 	Gender = male
 	Moves = AERIALACE,EMBER,QUICKATTACK,FLAIL
-Pokemon = GLIGAR,22
+Pokemon = GLIGAR,20
 	Gender = female
-	Moves = AERIALACE,QUICKATTACK,SANDTOMB,SANDATTACK
+	Moves = AERIALACE,QUICKATTACK,SANDTOMB,ROCKTOMB
 	Item = LUMBERRY
 #-------------------------------
