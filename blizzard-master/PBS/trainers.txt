@@ -177,8 +177,10 @@ Pokemon = WINGULL,15
 #-------------------------------
 [NURSE,Janice]
 Items = SUPERPOTION
-Pokemon = CHANSEY,13
-    Moves = SOFTBOILED,SING,DOUBLESLAP,MIMIC
+Pokemon = COMFEY,13
+    Moves = DRAININGKISS,MAGICALLEAF,GROWTH,SYNTHESIS
+Pokemon = JIGGLYPUFF,14
+	Moves = SING,DISABLE,DISARMINGVOICE,POUND
 #-------------------------------
 [FELIX,???]
 Items = POTION,POTION
@@ -216,7 +218,7 @@ Pokemon = SQUIRTLE,7
 Pokemon = DUCKLETT,18
 Pokemon = PIDGEOTTO,18
 #-------------------------------
-[BIRDKEEPER,Reed]
+[CAMPER,Reed]
 Pokemon = ZUBAT,18
 Pokemon = SKIPLOOM,18
 #-------------------------------

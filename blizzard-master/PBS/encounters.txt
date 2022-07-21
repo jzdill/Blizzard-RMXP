@@ -105,20 +105,20 @@ HeadbuttHigh
     SPINARAK,9,12
 #-------------------------------
 022 # Deserter's Cave
-25,10,10
+25,7,10
 Cave
-    ZUBAT,9,11
+    ZUBAT,8,10
+    PARAS,8,10
+    MANKEY,9
+    GEODUDE,8,10
+    SANDSHREW,9,10
+    DIGLETT,8,9
+    CHINGLING,9
+    CHINGLING,10
     PARAS,9,11
-    MANKEY,10
-    GEODUDE,9,11
-    SANDSHREW,9,11
-    DIGLETT,9,10
-    CHINGLING,10
-    CHINGLING,10
+    CUBONE,9,10
     PARAS,9,11
     MANKEY,10,11
-    PARAS,9,11
-    MANKEY,10,12
 #-------------------------------
 028 # Natural Park
 25,10,10
@@ -731,18 +731,18 @@ SuperRod
 093 # Route 63
 25,10,10
 Land
-    PIDGEY,14,16
-    HOPPIP,14,16
-    EKANS,15,17
-    SENTRET,15,17
-    ELECTRIKE,15,17
-    NIDORANmA,14,16
-    NIDORANfE,14,16
-    NIDORANfE,14,16
-    VENONAT,16,17
-    VENONAT,16,17
-    VENONAT,16,17
-    PIDGEOTTO,17,20
+    PIDGEY,13,15
+    HOPPIP,13,15
+    EKANS,13,15
+    SENTRET,13,15
+    ELECTRIKE,13,15
+    NIDORANmA,13,15
+    NIDORANfE,13,15
+    NIDORANfE,13,15
+    VENONAT,13,15
+    VENONAT,13,15
+    VENONAT,13,15
+    PIDGEOTTO,17,18
 HeadbuttHigh
     LEDYBA,14,15
     SEEDOT,14,16
@@ -754,23 +754,23 @@ HeadbuttHigh
     VENONAT,17,18
 #-------------------------------
 094 # Deserter's Cave B1F
-25,10,10
+25,7,10
 Cave
-    ZUBAT,9,11
-    PARAS,9,11
-    MANKEY,10
-    GEODUDE,9,11
-    SANDSHREW,9,11
-    DIGLETT,9,10
+    ZUBAT,8,10
+    PARAS,8,10
+    MANKEY,9
+    GEODUDE,8,10
+    SANDSHREW,9,10
+    DIGLETT,8,9
+    CHINGLING,9
     CHINGLING,10
-    CHINGLING,10
     PARAS,9,11
-    CUBONE,11,12
+    CUBONE,9,10
     PARAS,9,11
-    MANKEY,10,12
+    MANKEY,10,11
 #-------------------------------
 095 # Deserter's Cave B2F
-25,10,10
+25,7,10
 Cave
     ZUBAT,11,13
     PARAS,12,14
@@ -786,7 +786,7 @@ Cave
     BAGON,10
 #-------------------------------
 096 # Deserter's Cave B2F-1
-25,10,10
+25,7,10
 Cave
     ABRA,12,13
     ZUBAT,11,13
@@ -802,7 +802,7 @@ Cave
     ABRA,14
 #-------------------------------
 099 # Deserter's Cave 1F-1
-25,10,10
+25,7,10
 Cave
     ZUBAT,9,11
     PARAS,9,11
